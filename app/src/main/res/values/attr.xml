@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GalleryView">
+        <attr name="autoCut" format="boolean" />
+        <attr name="colCount" format="integer" />
+        <attr name="spacing" format="dimension" />
+    </declare-styleable>
+</resources>
