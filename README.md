@@ -1,4 +1,4 @@
-#SubsectionSeekbar
+#GalleryView
 
 xmlns:app="http://schemas.android.com/apk/res-auto"
 
