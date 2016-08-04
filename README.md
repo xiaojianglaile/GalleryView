@@ -17,6 +17,6 @@ gvImages1.showPrevious();
 gvImages1.showNext();
 
 
-效果图如下:
+效果图:
 ![image](https://github.com/xiaojianglaile/GalleryView/blob/master/raw/1.png)
 ![image](https://github.com/xiaojianglaile/GalleryView/blob/master/raw/2.png)
